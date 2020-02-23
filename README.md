@@ -8,4 +8,4 @@ Getting Started for Beginner by Beginner
 - Array, Collections
 - Higher Order Functions
 
-Live at https://facebook.com/CodeBangkok/videos
+Live at https://www.facebook.com/CodeBangkok/videos/1507478766078381
