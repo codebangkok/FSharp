@@ -6,4 +6,5 @@ Getting Started for Beginner by Beginner
 - Functions, Values, Flow
 - Array, Collections
 - Higher Order Functions
+
 Live at https://facebook.com/CodeBangkok/videos
